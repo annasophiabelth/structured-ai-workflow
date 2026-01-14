@@ -1,0 +1,12 @@
+{
+  "style": "Luxury Retro Digital",
+  "character": {
+    "name": "AVA",
+    "personality": "confident, bold, aspirational AI influencer"
+  },
+  "constraints": [
+    "luxury fashion",
+    "clean composition",
+    "high-end editorial look"
+  ]
+}
